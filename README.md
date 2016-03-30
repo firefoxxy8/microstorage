@@ -1,6 +1,9 @@
 microstorage
 ============
-
+![microstorage-travis](https://travis-ci.org/MicroPyramid/microstorage.svg?branch=master)
+![microstorage-landscape](https://landscape.io/github/MicroPyramid/microstorage/master/landscape.svg?style=flat)
+![microstorage-coveralls](https://coveralls.io/repos/github/MicroPyramid/microstorage/badge.svg?branch=master)
+<br>
 Collection of Cloud Storage (Amazon S3, Google Cloud Storage)
 
 
